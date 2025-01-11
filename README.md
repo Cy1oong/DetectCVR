@@ -2,7 +2,7 @@
 ⭐ If you find this dataset useful, please star our repository!
 
 ## 📖 Overview
-This repository contains our research implementation for “DetectCVR”[]. The dataset and code will be made available upon paper acceptance.
+This repository contains our research implementation for “DetectCVR”. The dataset and code will be made available upon paper acceptance.
 
 ## 🔄 Status
 ⏳ Paper is currently under review. Dataset will be released once accepted.
