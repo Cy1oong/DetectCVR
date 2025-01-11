@@ -20,7 +20,9 @@ This repository contains our research implementation for “DetectCVR”. The da
 | SOTA    | XX.X%   | XX.X%   | XX.X%   |
 
 ## 📬 Contact
-
+For questions and collaboration:
+- 📮 Email: mddll8945@gmail.com
+- 🔧 Open an [issue](../../issues/new)
 
 ## 📝 Citation
 If you use this dataset in your research, please cite our paper:
