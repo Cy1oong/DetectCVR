@@ -21,8 +21,10 @@ This repository contains our research implementation for “DetectCVR”. The da
 
 ## 📬 Contact
 For questions and collaboration:
-- 📮 Email: mddll8945@gmail.com
+- 📮 Email: xxxx@gmail.com
 - 🔧 Open an [issue](../../issues/new)
+---
+💡 **Tip:** Before creating a new issue, please check if a similar issue already exists in our [issue tracker](../../issues).
 
 ## 📝 Citation
 If you use this dataset in your research, please cite our paper:
