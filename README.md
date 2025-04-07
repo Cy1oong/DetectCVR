@@ -1,4 +1,4 @@
-# DetectCVR
+# DetectRPV
 ⭐ If you find this dataset useful, please star our repository!
 
 ## 📖 Overview
