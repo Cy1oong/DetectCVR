@@ -19,7 +19,7 @@ This repository contains our research implementation for “DetectCVR”. The da
 ⏳ Paper is currently under review. Dataset will be released once accepted.
 
 ## 📋 Coming Soon
-- [ ] 💾 Dataset download link
+- [X] 💾 Dataset download link
 - [ ] 📝 Dataset documentation
 - [ ] 📊 Statistics
 - [ ] 📌 Benchmark results
