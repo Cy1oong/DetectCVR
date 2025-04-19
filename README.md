@@ -4,6 +4,9 @@ In order to solve the engineering and technical problems in the smart new retail
 DetectRPV is a  data benchmark of evaluation/detection process
 # RPV11K 
 ⭐ If you find this dataset useful, please star our repository!
+Download link: https://pan.baidu.com/s/1UJH3zRfL1yFoLU9siDsHQg 
+code：0l7z 
+For any questions about this link, please contact: mddll8945@gmail.com
 Coming soon, Thanks!
 ## 📖 Overview
 This repository contains our research implementation for “DetectCVR”. The dataset and code will be made available upon paper acceptance.
