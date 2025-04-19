@@ -7,7 +7,7 @@ DetectRPV is a  data benchmark of evaluation/detection process
 
 Download link: https://pan.baidu.com/s/1UJH3zRfL1yFoLU9siDsHQg 
 
-code：0l7z 
+Extraction code: 0l7z 
 
 For any questions about this link, please contact: mddll8945@gmail.com
 
